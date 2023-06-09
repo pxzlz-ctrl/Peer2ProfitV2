@@ -4,7 +4,6 @@
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) NOTICE ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png)
 PLEASE DO NOT USE YOUR MAIN REPL ACCOUNT, USE [MAIL.GW](https://mail.gw) OR ANY OTHER TEMP MAIL SERVICE!<br>
-PEER2PROFIT HAS SHUT THE GATE ON USERS FROM THE UNITED STATES :(
   
 </div>
 <div align="center">
@@ -34,5 +33,4 @@ bash <(curl -s https://raw.githubusercontent.com/pxzlz-ctrl/Peer2ProfitV2/main/s
 ```
 1. Open run.sh and change email to YOUR email
 2. Press the RUN button
-3. Go to "https://taco.pxzlz.repl.co", then input your repl link and click the taco. (24/7)
 ```
