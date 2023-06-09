@@ -15,5 +15,4 @@ unzip mooneyapp.zip
 rm mooneyapp.zip
 unzip pt2.zip
 rm pt2.zip
-mv Files/* .
 ./dist/proot -S . /bin/bash ./fortyfithshellfile.sh
