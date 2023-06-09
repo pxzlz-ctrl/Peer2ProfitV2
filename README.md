@@ -9,12 +9,10 @@ PLEASE DO NOT USE YOUR MAIN REPL ACCOUNT, USE [MAIL.GW](https://mail.gw) OR ANY 
 <div align="center">
 
 ## Setup (DO THESE IN ORDER)
-
-1. Create a blank repl and click on it.
-2. Open the shell on the right side of the page.
-3. Run the following commands.
-
 </div>
+1. Create a BASH repl.<br>
+2. Open the shell on the right side of the page.<br>
+3. Run the following commands.
 
 ### Replace Nix and Start Scripts:
 
